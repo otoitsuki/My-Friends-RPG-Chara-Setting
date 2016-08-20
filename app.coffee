@@ -2,7 +2,7 @@
 Framer.DeviceView.Devices["custom"] =
 	"deviceType": "desktop"
 	"screenWidth": 1280
-	"screenHeight": 800
+	"screenHeight": 780
 	"deviceImage": ""
 
 # Set custom device
@@ -32,9 +32,9 @@ scaleTime = .2
 
 # messageWindow
 messageWindow  = new Layer
-	y: 602
+	y: 556
 	height: 140
-	width: 680
+	width: 603
 	borderRadius: 8
 	borderWidth: 5
 	borderColor: "rgba(97,97,97,1)"
