@@ -33,7 +33,7 @@ scaleTime = .2
 # messageWindow
 messageWindow  = new Layer
 	y: 602
-	height: 164
+	height: 140
 	width: 680
 	borderRadius: 8
 	borderWidth: 5
