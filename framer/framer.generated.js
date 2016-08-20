@@ -10,8 +10,8 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 		"name": "RPG",
 		"maskFrame": null,
 		"layerFrame": {
-			"x": -107,
-			"y": 257,
+			"x": 0,
+			"y": 0,
 			"width": 603,
 			"height": 556
 		},
@@ -21,8 +21,8 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 		"image": {
 			"path": "images/Layer-RPG-mkyxodje.jpg",
 			"frame": {
-				"x": -107,
-				"y": 257,
+				"x": 0,
+				"y": 0,
 				"width": 603,
 				"height": 556
 			}
@@ -53,7 +53,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 25
+				"time": 23
 			},
 			{
 				"objectId": "051833E8-7341-4451-B5A0-07868738E929",
@@ -107,7 +107,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 25
+				"time": 24
 			},
 			{
 				"objectId": "518B93F2-839C-4455-9620-533E8A236757",
@@ -134,7 +134,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 24
+				"time": 23
 			},
 			{
 				"objectId": "E1139E13-0F2B-4BC1-94FD-A9CDC5A40C5C",
@@ -161,7 +161,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 26
+				"time": 24
 			},
 			{
 				"objectId": "A00D64F7-0929-42E3-BB42-F843A422DB37",
@@ -188,7 +188,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 24
+				"time": 25
 			},
 			{
 				"objectId": "45FE542D-6213-461A-BAF4-855D37905E55",
@@ -215,7 +215,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 26
+				"time": 27
 			},
 			{
 				"objectId": "0F0F9CA6-60BB-4432-8241-CC1660953ABC",
@@ -242,7 +242,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 24
+				"time": 28
 			},
 			{
 				"objectId": "EBB4F87D-FA50-46E4-A231-396388667721",
@@ -269,7 +269,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 24
+				"time": 25
 			},
 			{
 				"objectId": "3C667F97-C861-42BB-A120-018FA1064792",
@@ -296,7 +296,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 24
+				"time": 26
 			},
 			{
 				"objectId": "B02E21F2-FD8E-42DD-9002-339FD99ED6FC",
@@ -323,7 +323,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 24
+				"time": 25
 			},
 			{
 				"objectId": "CCEEAEC8-D956-4315-9A64-AC6D5192C730",
@@ -350,7 +350,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 25
+				"time": 26
 			},
 			{
 				"objectId": "C7380BB6-CF99-4D14-BFD8-71EEFE1DC4E4",
@@ -377,7 +377,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 25
+				"time": 27
 			},
 			{
 				"objectId": "D94DBFE6-7082-464B-9FAE-8DF4A7DCF4C3",
@@ -404,7 +404,7 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 23
+				"time": 25
 			},
 			{
 				"objectId": "29D3C489-E2DB-44C0-9DD1-4798C3451746",
@@ -431,10 +431,10 @@ window.__imported__["RPG@1x/layers.json.js"] = [
 					}
 				},
 				"children": [],
-				"time": 24
+				"time": 26
 			}
 		],
-		"time": 440
+		"time": 443
 	}
 ]
 if (DeviceComponent) {DeviceComponent.Devices["iphone-6-silver"].deviceImageJP2 = false};

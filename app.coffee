@@ -32,7 +32,7 @@ scaleTime = .2
 
 # messageWindow
 messageWindow  = new Layer
-	y: 556
+	y: 596
 	height: 140
 	width: 603
 	borderRadius: 8
@@ -48,9 +48,10 @@ messageWindow  = new Layer
 
 messageWindow.html = "請選擇角色"
 
-chara = ["ali","den","lee2","nana","echo","cat","jinny","luegg","panko","mila","muming","lianko","jikei","bb","hai"]
 
-# 沐茗
+
+
+# Chara
 sketch.muming.onMouseOver (event, layer) ->
 	this.animate 
 		properties:
@@ -325,5 +326,8 @@ sketch.ali.onMouseOut (event, layer) ->
        		scale: 1
        		time: scaleTime
 	messageWindow.html = "請選擇角色"
+
+
+sketch.RPG.y= 30
 
 
